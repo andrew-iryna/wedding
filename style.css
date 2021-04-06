@@ -1,0 +1,15 @@
+.clock {
+  width: 650px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.clock2 {
+  font-size: 25px;
+  position: absolute;
+  top: 34%;
+  left: 43%;
+
+}
